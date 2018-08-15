@@ -1,0 +1,22 @@
+{
+    "name": "friendfinder",
+    "version": "1.0.0",
+    "description": "A friendfinder app for class project",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/smitty10010/friendfinder.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/smitty10010/friendfinder/issues"
+    },
+    "homepage": "https://github.com/smitty10010/friendfinder#readme",
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
